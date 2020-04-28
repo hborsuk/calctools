@@ -1,0 +1,18 @@
+body{
+    font-family: sans-serif;
+}
+h1{
+     text-align: center;
+}
+.seriesAnalyzer{
+    text-align: center;
+    position:relative;
+}
+.radius{
+    text-align: center;
+    position:relative;
+}
+.powerSeries{
+    text-align: center;
+    position:relative;
+}
